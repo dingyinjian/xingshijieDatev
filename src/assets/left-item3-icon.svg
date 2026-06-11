@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="74px" viewBox="0 0 47 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>数字牌</title>
+    <defs>
+        <linearGradient x1="50%" y1="87.4036229%" x2="50%" y2="21.116757%" id="linearGradient-1">
+            <stop stop-color="#0182FA" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#0062D3" stop-opacity="0.642345935" offset="48.7407124%"></stop>
+            <stop stop-color="#0182FA" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#00ACFF" offset="0%"></stop>
+            <stop stop-color="#00D8FF" offset="50.543597%"></stop>
+            <stop stop-color="#00BCFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-300.0%" y="-27.3%" width="700.0%" height="154.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.8" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-300.0%" y="-27.3%" width="700.0%" height="154.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="1.8" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="定稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="星月智创园综合管理平台定稿" transform="translate(-44, -891)">
+            <g id="数字牌" transform="translate(44, 891)">
+                <g id="编组-18" transform="translate(0, 1)">
+                    <rect id="矩形" fill="url(#linearGradient-1)" x="0.9" y="0" width="45" height="72"></rect>
+                    <rect id="矩形" stroke="url(#linearGradient-2)" stroke-width="0.72" x="0.9" y="0" width="45" height="72"></rect>
+                    <g id="编组-19" transform="translate(0, 26.1)">
+                        <rect id="矩形" fill-opacity="0.430807474" fill="#1358FF" filter="url(#filter-3)" x="0" y="0" width="1.8" height="19.8"></rect>
+                        <rect id="矩形备份-7" fill-opacity="0.430807474" fill="#1358FF" filter="url(#filter-4)" x="45" y="0" width="1.8" height="19.8"></rect>
+                        <rect id="矩形" fill="#22CCFF" x="0" y="0" width="1.8" height="19.8"></rect>
+                        <rect id="矩形备份-7" fill="#22CCFF" x="45" y="0" width="1.8" height="19.8"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

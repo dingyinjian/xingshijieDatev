@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="274px" height="139px" viewBox="0 0 274 139" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>悬停BG</title>
+    <defs>
+        <linearGradient x1="4.1237499%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#409DFE" stop-opacity="0.0527753497" offset="0%"></stop>
+            <stop stop-color="#1ED0FC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="4.80883148%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#40FDFE" stop-opacity="0.21798514" offset="0%"></stop>
+            <stop stop-color="#1EF9FC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="定稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="星月智创园综合管理平台定稿" transform="translate(-947, -452)">
+            <g id="悬停BG" transform="translate(947, 452)">
+                <g id="编组-17" transform="translate(66, 13)" fill="#000B25" fill-opacity="0.767263986" stroke="#00F7FF">
+                    <rect id="矩形" x="0.5" y="0.5" width="207" height="125"></rect>
+                </g>
+                <path d="M273.5,0.5 L273.5,5.5 L235.351629,5.5 L241.184962,0.5 L273.5,0.5 Z M235.648371,0.5 L229.815038,5.5 L210.351629,5.5 L216.184962,0.5 L235.648371,0.5 Z M210.648371,0.5 L204.815038,5.5 L192.351629,5.5 L198.184962,0.5 L210.648371,0.5 Z" id="形状结合" stroke="url(#linearGradient-2)" fill="url(#linearGradient-1)"></path>
+                <polyline id="路径" stroke="#00F7FF" transform="translate(91.8191, 9.4749) scale(-1, -1) translate(-91.8191, -9.4749)" points="7.32668105e-14 16 121.943636 16 133.312183 2.94988292 183.638193 2.94988292"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
